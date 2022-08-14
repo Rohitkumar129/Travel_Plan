@@ -1,2 +1,2 @@
-# Travel_Plan
-This project is about the travel between two cities and it shows the shortest path between them
+# TravelPlan
+This project is about the travel plan between two cities It shows the shortest the path between the two cities
